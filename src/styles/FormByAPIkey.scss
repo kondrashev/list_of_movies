@@ -1,0 +1,26 @@
+.close_form_api_key
+{
+    width: 30px;
+    height: 30px;
+    align-self: flex-end;
+    border: none;
+    background-color: initial;
+    cursor: pointer;
+}
+.close_form_api_key:hover
+{
+    border-radius: 50%;
+    background-color: grey;
+}
+.form_api_key{
+    position: absolute;
+    top:120px;
+    width: 350px;
+    height: 300px;
+    background-color: #a9cdf1;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
